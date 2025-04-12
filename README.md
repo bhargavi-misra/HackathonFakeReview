@@ -10,3 +10,4 @@ Flask: Lightweight web framework for creating the web interface.
 Scikit-learn: Library for building and training the machine learning model.
 TF-IDF: Text vectorization technique used to convert text data into numerical format.
 HTML/CSS: Used for designing and styling the web page interface.
+Link for the website: http://127.0.0.1:5000/predict
